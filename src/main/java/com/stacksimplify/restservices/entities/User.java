@@ -37,7 +37,7 @@
 		public User() {
 		}
 	
-		// Fields Constructor
+		// Fields Constructor used to initialize
 		public User(Long id, String username, String firstname, String lastname, String email, String role, String ssn) {
 			this.id = id;
 			this.username = username;
